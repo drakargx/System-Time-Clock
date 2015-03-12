@@ -29,24 +29,18 @@ namespace SystemTimeClock
             var uiView = GameObject.FindObjectOfType<UIView>();
             if (uiView == null) return;
 
-            
-            var textObject = new GameObject("MyButton", typeof(UITextField));
+            var textObject = new GameObject("System Clock", typeof(UITextField));
 
-            
             textObject.transform.parent = uiView.transform;
 
-            
-            time = textObject.GetComponent<UITextField>();
-
-            
+            time = textObject.GetComponent<UITextField>();            
             time.text = System.DateTime.Now.Hour + ":" + System.DateTime.Now.Minute + ":" + System.DateTime.Now.Second;
 
             // Set the button dimensions.
             time.width = 100;
             time.height = 30;
 
-
-            // Place the button.
+            // Place the text field.
             time.transformPosition = new Vector3(-1.65f, 0.97f);
 
             t = new System.Timers.Timer();
@@ -59,7 +53,7 @@ namespace SystemTimeClock
         private void setText(object sender, System.Timers.ElapsedEventArgs e)
         {
             time.text = System.DateTime.Now.Hour + ":" + System.DateTime.Now.Minute + ":" + System.DateTime.Now.Second;
-            DebugOutputPanel.AddMessage(ColossalFramework.Plugins.PluginManager.MessageType.Message, "Time interval reached.");
+            //DebugOutputPanel.AddMessage(ColossalFramework.Plugins.PluginManager.MessageType.Message, "Time interval reached.");
             t.Start();
         }
     }
