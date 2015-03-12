@@ -1,0 +1,5 @@
+*.suo
+SystemTimeClock/obj/*
+SystemTimeClock/bin/*
+SystemTimeClock/Properties
+*.csproj.user
