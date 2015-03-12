@@ -1,0 +1,11 @@
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\SystemTimeClock.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\SystemTimeClock.pdb
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\Assembly-CSharp.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\ColossalManaged.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\ICities.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\UnityEngine.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\UnityEngine.UI.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\obj\Debug\SystemTimeClock.csprojResolveAssemblyReference.cache
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\obj\Debug\SystemTimeClock.dll
+c:\users\nigel\documents\visual studio 2013\Projects\SystemTimeClock\SystemTimeClock\obj\Debug\SystemTimeClock.pdb
